@@ -1,0 +1,10 @@
+https://mp.weixin.qq.com/s/Zm6L9fCBl2mLZJACCdaXkA
+https://blog.csdn.net/longxinchen_ml/article/details/86533005
+https://jalammar.github.io/illustrated-transformer/
+https://zhuanlan.zhihu.com/p/143490753
+
+DETR:https://github.com/facebookresearch/detr
+AutoAssign:https://link.zhihu.com/?target=https%3A//github.com/Megvii-BaseDetection/AutoAssign
+Deformable DETR:https://link.zhihu.com/?target=https%3A//github.com/fundamentalvision/Deformable-DETR
+DeFCN:https://link.zhihu.com/?target=https%3A//github.com/Megvii-BaseDetection/DeFCN
+
